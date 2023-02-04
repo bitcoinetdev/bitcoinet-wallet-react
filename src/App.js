@@ -27,7 +27,7 @@ function App() {
       <h1>Bitcoinet</h1>
       <h1>Alerta de Precio para la comunidad CryptoABS</h1>
 
-      <h1>Bitcoin Price</h1>
+      <h2>Bitcoin Price</h2>
       <h1>{price}</h1>
     </div>
   );
